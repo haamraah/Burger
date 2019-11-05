@@ -24,7 +24,15 @@ cd Burger
 ```
 npm install
 ```
-**Step 4 - Start the application server using the command line below**
+**Step 4 - Setup Database.**
+```
+mysql -u <Your MySQL Username> -p
+<Your MySQL Password>
+\. \db\schema.sql
+\. \db\seeds.sql
+\exit
+```
+**Step 5 - Start the application server using the command line below**
 ```
 npm start
 ```
