@@ -1,7 +1,7 @@
 
 
 
-**Project Description** - Eat-Da-Burger is a full-stack web application that ??.
+**Project Description** - Eat-Da-Burger is a full-stack web application that you can create a new burger , order it and eat it VIRTUALLY!
 
 ## Application Heroku Link
 The link below will give you direct access to Eat-Da-Burger web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
